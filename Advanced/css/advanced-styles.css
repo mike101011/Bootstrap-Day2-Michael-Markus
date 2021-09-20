@@ -27,4 +27,23 @@ body {
 .mami-background {
   background-color: #776e6e;
 }
+
+.mami-bg-color {
+  background-color: #aca6a7;
+  width: 60em;
+  height: 30em;
+}
+
+.mami-bg-color img {
+  height: 30em;
+  width: 60em;
+  -o-object-fit: cover;
+     object-fit: cover;
+  padding: 0.5em;
+}
+
+main {
+  margin-top: 1em;
+  margin-left: 1em;
+}
 /*# sourceMappingURL=advanced-styles.css.map */
