@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(74, 70, 82);
+}
+.mami-nav-list {
+  background-color: rgb(196, 196, 196);
+  li {
+    margin-right: 1em;
+  }
+  a {
+    font-size: 1.5em;
+    color: black;
+  }
+}
+.mami-actor {
+  font-size: larger;
+  color: rgb(14, 15, 15);
+}
+.mami-actor:hover {
+  color: rgb(6, 248, 115);
+}
+.mami-background {
+  background-color: rgb(119, 110, 110);
+}

@@ -1,0 +1,30 @@
+body {
+  background-color: #4a4652;
+}
+
+.mami-nav-list {
+  background-color: #c4c4c4;
+}
+
+.mami-nav-list li {
+  margin-right: 1em;
+}
+
+.mami-nav-list a {
+  font-size: 1.5em;
+  color: black;
+}
+
+.mami-actor {
+  font-size: larger;
+  color: #0e0f0f;
+}
+
+.mami-actor:hover {
+  color: #06f873;
+}
+
+.mami-background {
+  background-color: #776e6e;
+}
+/*# sourceMappingURL=advanced-styles.css.map */
