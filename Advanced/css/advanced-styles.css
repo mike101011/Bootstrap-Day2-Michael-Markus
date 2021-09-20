@@ -2,6 +2,14 @@ body {
   background-color: #4a4652;
 }
 
+#pills-tab {
+  background-color: #c4c4c4;
+}
+
+#v-pills-tabContent-reviews {
+  color: whitesmoke;
+}
+
 .mami-nav-list {
   background-color: #c4c4c4;
 }
@@ -45,5 +53,9 @@ body {
 main {
   margin-top: 1em;
   margin-left: 1em;
+}
+
+#pills-home p {
+  color: yellow;
 }
 /*# sourceMappingURL=advanced-styles.css.map */
